@@ -1,4 +1,5 @@
 # Self-Supervised Video Hashing
+ which is published in Transactions on Image Processing
 
 # Environment
  Theano 0.8.2
