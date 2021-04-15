@@ -13,3 +13,15 @@
 # Train:
 python SSVH.py
 
+```
+@article{song2018self,
+  title={Self-supervised video hashing with hierarchical binary auto-encoder},
+  author={Song, Jingkuan and Zhang, Hanwang and Li, Xiangpeng and Gao, Lianli and Wang, Meng and Hong, Richang},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={7},
+  pages={3210--3221},
+  year={2018},
+  publisher={IEEE}
+}
+```
